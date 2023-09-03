@@ -1,0 +1,65 @@
+2023-09-03 17:34:34,405 - INFO - Displaying menu options.
+2023-09-03 17:34:36,120 - INFO - User selected to add a product to the cart.
+2023-09-03 17:34:36,120 - INFO - Displaying supermarket products.
+2023-09-03 17:34:36,120 - INFO - Displaying supermarket products.
+2023-09-03 17:34:41,891 - INFO - 25 units of Apples added to your cart.
+2023-09-03 17:34:41,891 - INFO - Displaying menu options.
+2023-09-03 17:34:42,990 - INFO - User selected to print the cart.
+2023-09-03 17:34:42,990 - INFO - Displaying menu options.
+2023-09-03 17:34:47,044 - INFO - User selected to display products.
+2023-09-03 17:34:47,044 - INFO - Displaying supermarket products.
+2023-09-03 17:34:47,055 - INFO - Displaying menu options.
+2023-09-03 17:34:49,198 - INFO - User selected to add a product to the cart.
+2023-09-03 17:34:49,198 - INFO - Displaying supermarket products.
+2023-09-03 17:34:49,198 - INFO - Displaying supermarket products.
+2023-09-03 17:34:52,788 - ERROR - Invalid input. User entered an invalid index or amount.
+2023-09-03 17:34:52,788 - INFO - Displaying menu options.
+2023-09-03 17:34:57,028 - INFO - User selected to add a product to the cart.
+2023-09-03 17:34:57,028 - INFO - Displaying supermarket products.
+2023-09-03 17:34:57,028 - INFO - Displaying supermarket products.
+2023-09-03 17:34:59,823 - INFO - Only 25 units of Apples in stock.
+2023-09-03 17:34:59,823 - INFO - 25 units of Apples added to your cart.
+2023-09-03 17:34:59,823 - INFO - Displaying menu options.
+2023-09-03 17:35:03,294 - INFO - User selected to exit the program.
+2023-09-03 17:35:03,294 - INFO - Displaying menu options.
+2023-09-03 17:35:05,918 - INFO - User selected to exit the program.
+2023-09-03 17:35:05,918 - INFO - Displaying menu options.
+2023-09-03 17:39:40,637 - INFO - Displaying menu options.
+2023-09-03 17:39:42,509 - INFO - User selected to exit the program.
+2023-09-03 17:39:58,620 - INFO - Displaying menu options.
+2023-09-03 17:40:00,612 - INFO - User selected to display products.
+2023-09-03 17:40:00,612 - INFO - Displaying supermarket products.
+2023-09-03 17:40:00,612 - INFO - Displaying menu options.
+2023-09-03 17:40:01,623 - INFO - User selected to add a product to the cart.
+2023-09-03 17:40:01,623 - INFO - Displaying supermarket products.
+2023-09-03 17:40:01,623 - INFO - Displaying supermarket products.
+2023-09-03 17:40:04,851 - INFO - 50 units of Apples added to your cart.
+2023-09-03 17:40:04,851 - INFO - Displaying menu options.
+2023-09-03 17:40:06,407 - INFO - User selected to add a product to the cart.
+2023-09-03 17:40:06,407 - INFO - Displaying supermarket products.
+2023-09-03 17:40:06,407 - INFO - Displaying supermarket products.
+2023-09-03 17:40:09,343 - ERROR - Invalid input. User entered an invalid index or amount.
+2023-09-03 17:40:09,343 - INFO - Displaying menu options.
+2023-09-03 17:40:14,586 - INFO - User selected to add a product to the cart.
+2023-09-03 17:40:14,586 - INFO - Displaying supermarket products.
+2023-09-03 17:40:14,586 - INFO - Displaying supermarket products.
+2023-09-03 17:40:18,386 - INFO - Only 0 units of Apples in stock.
+2023-09-03 17:40:18,386 - INFO - 0 units of Apples added to your cart.
+2023-09-03 17:40:18,386 - INFO - Displaying menu options.
+2023-09-03 17:40:22,727 - INFO - User selected to exit the program.
+2023-09-03 17:42:24,117 - INFO - Displaying menu options.
+2023-09-03 17:42:26,137 - INFO - User selected to add a product to the cart.
+2023-09-03 17:42:26,137 - INFO - Displaying supermarket products.
+2023-09-03 17:42:26,137 - INFO - Displaying supermarket products.
+2023-09-03 17:42:31,502 - INFO - Only 50 units of Apples in stock.
+2023-09-03 17:42:31,502 - INFO - 50 units of Apples added to your cart.
+2023-09-03 17:42:31,502 - INFO - Displaying menu options.
+2023-09-03 17:42:33,582 - INFO - User selected to exit the program.
+2023-09-03 17:43:35,471 - INFO - Displaying menu options.
+2023-09-03 17:43:36,903 - INFO - User selected to add a product to the cart.
+2023-09-03 17:43:36,903 - INFO - Displaying supermarket products.
+2023-09-03 17:43:36,903 - INFO - Displaying supermarket products.
+2023-09-03 17:43:39,973 - ERROR - Only 50 units of Apples in stock.
+2023-09-03 17:43:39,973 - INFO - 50 units of Apples added to your cart.
+2023-09-03 17:43:39,973 - INFO - Displaying menu options.
+2023-09-03 17:43:41,843 - INFO - User selected to exit the program.
